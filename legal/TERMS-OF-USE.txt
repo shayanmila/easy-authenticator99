@@ -1,0 +1,17 @@
+EASY AUTHENTICATOR - END USER TERMS OF USE
+Version 1.0 - 27 October 2026
+
+Publisher: MasoomDev
+
+By installing or using Easy Authenticator, you agree to these terms.
+
+1. PURPOSE. This software generates authentication codes and may provide local storage and optional backup features. You are responsible for securing your devices and recovery codes.
+2. RECOVERY. Keep separate recovery codes for every account. Do not rely on this application as the only way to access your accounts.
+3. SECURITY. Protect your Windows account, use current security updates, and do not share authenticator secrets. No software can guarantee uninterrupted access or absolute security.
+4. UPDATES. Updates may change functionality. Back up your credentials before upgrading or uninstalling.
+5. AVAILABILITY. The software is provided as available, subject to rights that cannot legally be excluded. The publisher does not promise that it will be error-free or compatible with every service.
+6. LIABILITY. To the extent permitted by applicable law, the publisher is not responsible for indirect or consequential loss. This does not exclude liability that cannot legally be excluded.
+7. THIRD-PARTY SERVICES. Optional cloud features may be subject to separate third-party terms and privacy practices.
+8. CONTACT. See the publisher's official website or public repository for support and current policies.
+
+These terms are a publication draft and should be reviewed for the markets in which you distribute the application.

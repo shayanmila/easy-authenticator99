@@ -1,0 +1,13 @@
+EASY AUTHENTICATOR - DRAFT PRIVACY NOTICE
+Last updated: 27 October 2026
+Publisher: MasoomDev
+
+Easy Authenticator generates time-based authentication codes. Authenticator secrets may be stored locally using operating-system-backed secure storage. Optional sign-in and cloud backup functionality exists in the application source and may process account and backup information through Supabase when configured and used.
+
+Before public release, verify and disclose: exactly what account information and authenticator secrets are transmitted; whether backups are encrypted before upload; encryption key handling; service region and retention; deletion process; subprocessors; diagnostic data collection; user rights; and a verified support/privacy contact.
+
+Do not describe this application as exclusively offline or as collecting no data without validating all enabled functionality.
+
+Keep your recovery codes separately. Uninstalling the app does not necessarily remove backups or cloud-stored records.
+
+THIS NOTICE IS A REVIEW DRAFT, NOT A VERIFIED FINAL PRIVACY POLICY.
